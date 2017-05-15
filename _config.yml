@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Abdu Habib
+name: Helloe Jekyll
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -21,7 +21,7 @@ footer-links:
   email:abthabib@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: abthabib
   instagram:
   linkedin:
   pinterest:
